@@ -119,7 +119,7 @@ const config: Config = {
           items: [
             {
               label: 'Introduction',
-              to: '/docs/introduction',
+              to: '/docs/',
             },
             {
               label: 'Ideology of Pakistan',
