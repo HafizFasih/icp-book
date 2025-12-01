@@ -55,3 +55,17 @@ Let's begin your journey to understanding Pakistan!
 - **Review** areas you couldn't recall
 
 Remember: "Understanding creates permanent knowledge, while rote learning creates temporary memories."
+
+---
+
+## 👨‍💻 About This Book
+
+This comprehensive ICP Book has been carefully compiled and organized by **Muhammad Fasih** to help students excel in their Pakistan Studies examinations. Every chapter has been enhanced with:
+
+- Professional formatting and structure
+- Memory techniques and mnemonics
+- Exam writing strategies
+- Self-assessment questions
+- Comparison tables and timelines
+
+Made with ❤️ for students preparing for ICP exams.

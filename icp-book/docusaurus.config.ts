@@ -94,46 +94,45 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Book Parts',
+          items: [
+            {
+              label: 'Part I: Ideology',
+              to: '/docs/category/part-i-foundational-concepts--ideology',
+            },
+            {
+              label: 'Part II: History',
+              to: '/docs/category/part-ii-historical-events-of-pakistan-movement',
+            },
+            {
+              label: 'Part III: Constitution',
+              to: '/docs/category/part-iii-constitutional-development',
+            },
+            {
+              label: 'Part IV: Government',
+              to: '/docs/category/part-iv-government-structure--responsibilities',
+            },
+          ],
+        },
+        {
+          title: 'Quick Links',
           items: [
             {
               label: 'Introduction',
               to: '/docs/introduction',
             },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Ideology of Pakistan',
+              to: '/docs/part1-ideology/ideology-of-pakistan',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Constitution 1973',
+              to: '/docs/part3-constitution/constitution-1973',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Pakistan Studies ICP Book. Made with ❤️ by Muhammad Fasih. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
