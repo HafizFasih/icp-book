@@ -598,3 +598,43 @@ Total: 33-34 minutes for comprehensive answer!
 
 This shows you understand both procedure AND WHY it's designed this way!
 :::
+
+---
+
+## Flashcards for Quick Review
+
+### 1. What type of constitution is the 1973 Constitution in terms of amendments?
+**Answer:** A rigid constitution (difficult to amend).
+
+### 2. What majority is required to amend the Constitution?
+**Answer:** Two-thirds majority of total membership in both houses of Parliament.
+
+### 3. In which house can a constitutional amendment bill be introduced?
+**Answer:** Either house - National Assembly or Senate.
+
+### 4. What does "two-thirds of total membership" mean?
+**Answer:** Two-thirds of all seats that exist in the house, not just members present on voting day.
+
+### 5. If the National Assembly has 270 seats, how many votes are needed to pass an amendment?
+**Answer:** 180 votes (two-thirds of 270), even if some members are absent.
+
+### 6. What happens if the two houses disagree on an amendment?
+**Answer:** The bill dies - there is no Joint Sitting provision for constitutional amendments.
+
+### 7. What extra step is required if an amendment alters provincial boundaries?
+**Answer:** The affected province's assembly must also approve the amendment with a two-thirds majority.
+
+### 8. Can the President refuse to give assent to a constitutional amendment?
+**Answer:** No, the President must give assent - it is mandatory and automatic.
+
+### 9. Why is there no Joint Sitting provision for constitutional amendments?
+**Answer:** To protect federalism and smaller provinces, ensuring they cannot be overridden by the larger National Assembly.
+
+### 10. How does a constitutional amendment differ from an ordinary bill?
+**Answer:** Amendments need two-thirds majority of total membership, can start in either house, have no Joint Sitting option, and President must give assent.
+
+### 11. Which amendment required provincial assembly approval and why?
+**Answer:** The 25th Amendment (FATA merger with KPK) required KPK Assembly approval because it affected provincial boundaries.
+
+### 12. Why did the framers make constitutional amendments so difficult?
+**Answer:** To ensure stability, protect minorities and smaller provinces, require genuine consensus, and prevent arbitrary changes to the Constitution.

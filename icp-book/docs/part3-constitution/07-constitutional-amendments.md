@@ -11,7 +11,7 @@ keywords: [constitutional amendments, 8th amendment, 14th amendment, 17th amendm
 
 ## Introduction
 
-The Constitution of Pakistan (1973) is a dynamic legal document that has undergone significant transformations to align with changing political, religious, and administrative realities of the state. Since its promulgation, it has been amended **26 times** to redefine state boundaries, settle religious definitions, shift the balance of power between the President and Parliament, and address internal security challenges.
+The Constitution of Pakistan (1973) is a dynamic legal document that has undergone significant transformations to align with changing political, religious, and administrative realities of the state. Since it was announced, it has been amended **26 times** to redefine state boundaries, settle religious definitions, shift the balance of power between the President and Parliament, and address internal security challenges.
 
 The Constitution was designed to be **rigid** (difficult to amend), requiring a **two-thirds majority** in both houses of Parliament. Yet despite this rigidity, the Constitution has evolved considerably through amendments, reflecting Pakistan's turbulent political journey.
 
@@ -55,7 +55,7 @@ The amendment pattern reveals Pakistan's political history—from military dicta
 
 ### Historical Context
 
-The 8th Amendment was passed in **November 1985** during **General Muhammad Zia-ul-Haq's military regime**. Zia had seized power in a military coup on **July 5, 1977**, abrogating the 1973 Constitution. In 1985, facing international pressure and seeking legitimacy, Zia promised elections and a return to democracy, but on his terms.
+The 8th Amendment was passed in **November 1985** during **General Muhammad Zia-ul-Haq's military regime**. Zia had seized power in a military coup on **July 5, 1977**, cancelling the 1973 Constitution. In 1985, facing international pressure and seeking legitimacy, Zia promised elections and a return to democracy, but on his terms.
 
 The 8th Amendment was **the price newly elected non-party Parliament paid for lifting of Martial Law**. It fundamentally altered the parliamentary nature of the 1973 Constitution, shifting the balance of power heavily in favor of the President.
 
@@ -184,7 +184,7 @@ The 13th Amendment showed that democratic reform was possible through constituti
 
 ### Context
 
-After the **October 1999 military coup** by General Pervez Musharraf, the 1973 Constitution was initially suspended. In 2002, elections were held, and in 2003, Musharraf sought to legitimize his regime through the **17th Amendment**.
+After the **October 1999 military coup** by General Pervez Musharraf, the 1973 Constitution was initially stopped. In 2002, elections were held, and in 2003, Musharraf sought to legitimize his regime through the **17th Amendment**.
 
 ### Key Provisions
 
@@ -627,3 +627,43 @@ Total: 25-30 minutes for comprehensive answer!
 
 This structure shows you understand the entire constitutional journey!
 :::
+
+---
+
+## Flashcards for Quick Review
+
+### 1. When was the 8th Amendment passed and by whom?
+**Answer:** Passed in November 1985 during General Zia-ul-Haq's military regime.
+
+### 2. What did Article 58(2)(b) allow the President to do?
+**Answer:** It allowed the President to dissolve the National Assembly and dismiss the Prime Minister based solely on the President's opinion.
+
+### 3. Why was Article 58(2)(b) called the "Sword of Damocles"?
+**Answer:** Because it hung over every elected government like a threat, allowing the President to dismiss them at any time, creating permanent political instability.
+
+### 4. What did the 13th Amendment do?
+**Answer:** Passed in 1997 by PM Nawaz Sharif, it removed Article 58(2)(b), restoring parliamentary supremacy.
+
+### 5. What did the 17th Amendment do?
+**Answer:** Passed in 2003 by Musharraf, it partially restored Article 58(2)(b), giving back presidential power to dissolve assemblies.
+
+### 6. When was the 18th Amendment passed and why is it important?
+**Answer:** Passed unanimously in April 2010. It permanently removed Article 58(2)(b), abolished the Concurrent List, and added new fundamental rights.
+
+### 7. What is the Concurrent List and what happened to it?
+**Answer:** A list of 47 subjects where both federal and provincial governments could make laws. The 18th Amendment abolished it, transferring all these powers to provinces.
+
+### 8. What new rights did the 18th Amendment add?
+**Answer:** Right to Education (25-A), Right to Information (19-A), and Right to Fair Trial (10-A).
+
+### 9. What did the 18th Amendment do to NWFP?
+**Answer:** It officially renamed the North-West Frontier Province to Khyber Pakhtunkhwa (KPK).
+
+### 10. What did the 25th Amendment do?
+**Answer:** Passed in 2018, it merged FATA (Federally Administered Tribal Areas) with Khyber Pakhtunkhwa.
+
+### 11. How many times has the 1973 Constitution been amended?
+**Answer:** 26 times since 1973.
+
+### 12. Why has Pakistan been more politically stable after the 18th Amendment?
+**Answer:** Because the permanent removal of Article 58(2)(b) ended the threat of arbitrary dismissals, allowing elected governments to complete their full terms.

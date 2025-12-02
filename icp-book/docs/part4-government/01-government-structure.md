@@ -11,9 +11,9 @@ keywords: [government structure, parliament, national assembly, senate, presiden
 
 ## Introduction
 
-The **Islamic Republic of Pakistan** functions as a **federal parliamentary republic** as defined by the **Constitution of 1973**. The state's authority is distributed among three distinct but interconnected branches: the **Legislature** (which makes laws), the **Executive** (which enforces laws), and the **Judiciary** (which interprets laws).
+The **Islamic Republic of Pakistan** works as a **federal parliamentary republic** as written in the **Constitution of 1973**. The state's power is divided among three different but connected branches: the **Legislature** (makes laws), the **Executive** (carries out laws), and the **Judiciary** (explains laws).
 
-This **separation of powers** is designed to ensure checks and balances, with the Constitution acting as the supreme law of the land. This structural design prevents the concentration of power in a single institution and protects fundamental rights while maintaining governmental stability.
+This **separation of powers** ensures checks and balances, with the Constitution as the highest law of the land. This design stops power from gathering in one place and protects basic rights while keeping the government stable.
 
 ---
 
@@ -21,7 +21,7 @@ This **separation of powers** is designed to ensure checks and balances, with th
 
 ### Overview
 
-The legislative authority is vested in a **bicameral legislature** known as the **Majlis-e-Shoora** (Council of Consultation). The Parliament consists of the President and two Houses: the **National Assembly** and the **Senate**.
+The law-making power belongs to a **two-house legislature** called the **Majlis-e-Shoora** (Council of Consultation). The Parliament has the President and two Houses: the **National Assembly** and the **Senate**.
 
 ### Parliamentary Structure
 
@@ -45,12 +45,12 @@ MAJLIS-E-SHOORA (PARLIAMENT)
 
 ### The President (as part of Parliament)
 
-While primarily the Head of State, the President is technically part of the Parliament. Their assent is required for a Bill to become an Act (Law), though their power to reject bills is limited by the Constitution.
+The President is mainly the Head of State and is also part of Parliament. Their approval is needed for a Bill to become a Law, though their power to reject bills is limited by the Constitution.
 
 **Key Functions:**
-- Grants assent to legislation
-- Acts as ceremonial figurehead
-- May return bills for reconsideration (limited veto power)
+- Gives approval to laws
+- Acts as ceremonial leader
+- Can send bills back for another look (limited veto power)
 
 ### The National Assembly (Lower House)
 
@@ -171,15 +171,15 @@ EXECUTIVE BRANCH
 #### **Powers of the President**
 
 **Constitutional Powers:**
-- Grants assent to legislation (making it law)
-- Returns bills for reconsideration
-- Acts on advice of PM regarding:
-  - Appointments of Chiefs of Armed Forces
-  - Appointment of Federal Ministers
-  - Granting of pardons and remissions
-- Promulgates ordinances when Parliament is not in session
-- Summons and dissolves Parliament (on PM's advice)
-- Appoints provincial governors
+- Gives approval to laws (making them official)
+- Sends bills back for another look
+- Acts on advice of PM for:
+  - Choosing Chiefs of Armed Forces
+  - Choosing Federal Ministers
+  - Giving pardons and reducing sentences
+- Announces temporary laws when Parliament is not meeting
+- Calls and ends Parliament (on PM's advice)
+- Chooses provincial governors
 - Signs treaties and international agreements
 
 **Ceremonial Functions:**
@@ -337,21 +337,21 @@ The **Supreme Court** is the apex judicial body in Pakistan and the final author
 
 #### **Types of Jurisdiction**
 
-| Jurisdiction | Scope |
+| Type of Authority | What It Covers |
 |--------------|-------|
-| **Original** | Hears cases involving disputes between federal and provincial governments; cases involving fundamental rights |
-| **Appellate** | Reviews decisions of High Courts in civil and criminal matters |
-| **Advisory** | Gives advisory opinions to President on legal matters |
-| **Constitutional** | Interprets the Constitution; reviews constitutional amendments |
+| **Original** | Hears cases about fights between federal and provincial governments; cases about basic rights |
+| **Appeals** | Reviews decisions of High Courts in civil and criminal matters |
+| **Advisory** | Gives advice to President on legal matters |
+| **Constitutional** | Explains the Constitution; reviews changes to the Constitution |
 
 #### **Powers and Functions**
 
-- **Interpret the Constitution**: Final authority on constitutional meaning
-- **Judicial Review**: Can strike down laws deemed unconstitutional
-- **Protect Rights**: Enforces Fundamental Rights through writs (habeas corpus, mandamus, certiorari)
-- **Appellate Review**: Reviews High Court decisions
-- **Setting Precedent**: Decisions bind all lower courts
-- **Guardianship Role**: Protects democratic and constitutional order
+- **Explain the Constitution**: Final say on what the Constitution means
+- **Judicial Review**: Can cancel laws that go against the Constitution
+- **Protect Rights**: Enforces Basic Rights through special orders (habeas corpus, mandamus, certiorari)
+- **Review Appeals**: Reviews High Court decisions
+- **Setting Examples**: Decisions must be followed by all lower courts
+- **Guardian Role**: Protects democracy and constitutional order
 
 :::note Supreme Court's Guardian Role
 The Supreme Court has played a crucial role in protecting democracy in Pakistan. It has:
@@ -397,10 +397,10 @@ There are **five High Courts** in Pakistan:
 
 #### **Functions**
 
-- **Appellate Authority**: Reviews decisions of subordinate courts in civil and criminal cases
-- **Original Jurisdiction**: Hears cases involving fundamental rights and federal matters
-- **Supervisory Jurisdiction**: Supervises subordinate courts in their jurisdiction
-- **Writ Jurisdiction**: Issues writs (habeas corpus, mandamus, prohibition, certiorari)
+- **Review Appeals**: Reviews decisions of lower courts in civil and criminal cases
+- **Original Authority**: Hears cases about basic rights and federal matters
+- **Watch Over Lower Courts**: Supervises lower courts in their area
+- **Special Orders**: Issues special court orders (habeas corpus, mandamus, prohibition, certiorari)
 - **Constitutional Matters**: Handles provincial constitutional issues
 
 :::note High Court's Importance
@@ -672,5 +672,45 @@ JUDICIARY → Interprets the Law
 - **Federal only**: Defense, Foreign Policy, Currency
 - **Provincial only**: Education, Health, Police (after 18th Amendment)
 - **Both**: Taxation, Labor, Commerce
+
+---
+
+## Summary Flashcards
+
+### Q1: What are the three branches of Pakistan's government?
+**A:** Legislature (makes laws), Executive (carries out laws), and Judiciary (explains laws).
+
+### Q2: How many members are in the National Assembly?
+**A:** 336 members total (266 general seats, 60 women, 10 minorities).
+
+### Q3: How many members are in the Senate?
+**A:** 96 members total (23 from each of the 4 provinces, plus 4 from Islamabad).
+
+### Q4: What is the main difference between National Assembly and Senate?
+**A:** National Assembly represents population (direct election), Senate represents provinces equally (indirect election).
+
+### Q5: Who has real executive power in Pakistan - President or Prime Minister?
+**A:** The Prime Minister has real power. The President is mainly ceremonial.
+
+### Q6: What is the highest court in Pakistan?
+**A:** The Supreme Court of Pakistan (located in Islamabad).
+
+### Q7: How many High Courts does Pakistan have?
+**A:** 5 High Courts (Lahore, Sindh, Peshawar, Balochistan, and Islamabad).
+
+### Q8: What is the Federal Shariat Court's job?
+**A:** It checks whether laws follow Islamic principles from the Quran and Sunnah.
+
+### Q9: What does "separation of powers" mean?
+**A:** Power is divided among three branches so no single branch becomes too powerful.
+
+### Q10: What is judicial review?
+**A:** The Supreme Court's power to cancel laws that go against the Constitution.
+
+### Q11: What is the 18th Amendment?
+**A:** A 2010 change that gave more powers to provinces, especially in education and health.
+
+### Q12: What does bicameral legislature mean?
+**A:** A parliament with two houses - National Assembly and Senate.
 
 ---

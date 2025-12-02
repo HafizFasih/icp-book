@@ -19,12 +19,12 @@ They set the **ideological direction** for the government, outlining the socio-e
 
 | Fundamental Rights | Principles of Policy |
 | :--- | :--- |
-| **Justiciable** (enforceable by courts) | **Non-Justiciable** (not directly enforceable) |
+| **Enforceable in courts** | **Not enforceable in courts** |
 | Citizens can sue if violated | Citizens cannot sue for non-implementation |
 | Mandatory, immediate application | Guidelines, long-term implementation |
 | Protect individual liberty | Guide state policy direction |
 
-:::note Non-Justiciable but Important
+:::note Not Enforceable in Courts but Important
 Although not legally enforceable through courts, Article 29 mandates that **every organ of the state must act in accordance with these principles**. They form the constitutional conscience of the state.
 :::
 
@@ -43,7 +43,7 @@ Although not legally enforceable through courts, Article 29 mandates that **ever
 - Serve as **constitutional guidance** for policymaking
 - Represent the **ideological commitments** of Pakistan
 
-### Article 30: Legal Status and Non-Justiciability
+### Article 30: Legal Status and Not Enforceable in Courts
 
 **"The validity of an action or law cannot be questioned in court on the ground that it violates the Principles of Policy."**
 
@@ -53,7 +53,7 @@ Although not legally enforceable through courts, Article 29 mandates that **ever
 - Protects the state from litigation while maintaining symbolic importance
 - Acknowledges that implementation depends on **available resources** and circumstances
 
-**Why Non-Justiciable?**
+**Why Not Enforceable in Courts?**
 - These are long-term, resource-dependent goals
 - Depend on economic conditions and development
 - Cannot be implemented overnight
@@ -594,3 +594,43 @@ When answering comprehensively about Principles of Policy:
 
 Total: 29-30 minutes for comprehensive answer!
 :::
+
+---
+
+## Flashcards for Quick Review
+
+### 1. What are Principles of Policy and where are they found?
+**Answer:** Guidelines for state policy found in Part II, Chapter 2 (Articles 29-40) of the 1973 Constitution.
+
+### 2. What is the main difference between Fundamental Rights and Principles of Policy?
+**Answer:** Fundamental Rights are enforceable in courts, while Principles of Policy are not enforceable in courts but guide state policy.
+
+### 3. Can citizens sue the government for not implementing Principles of Policy?
+**Answer:** No, these principles are not enforceable in courts, so citizens cannot directly sue for their non-implementation.
+
+### 4. What does Article 31 require about Islamic way of life?
+**Answer:** The state must make teaching of Quran and Islamiat compulsory, encourage Arabic language, and organize Zakat, Ushr, Auqaf, and Mosques.
+
+### 5. What does Article 33 ask the state to discourage?
+**Answer:** Five types of prejudices - parochial (local), racial, tribal, sectarian, and provincial.
+
+### 6. What does Article 34 promise for women?
+**Answer:** The state will take steps to ensure full participation of women in all spheres of national life.
+
+### 7. What does Article 36 protect?
+**Answer:** The rights and interests of minorities, including their representation in federal and provincial services.
+
+### 8. What does Article 37 aim to eliminate?
+**Answer:** Illiteracy, social evils like prostitution and gambling, and provide inexpensive and quick justice.
+
+### 9. What economic goal does Article 38 include?
+**Answer:** Elimination of Riba (interest/usury) as early as possible, and prevention of wealth concentration in few hands.
+
+### 10. What does Article 40 promote?
+**Answer:** Strengthening bonds with Muslim countries based on Islamic unity, and promoting international peace.
+
+### 11. Why are Principles of Policy not enforceable in courts?
+**Answer:** They are long-term, resource-dependent goals that depend on economic conditions and cannot be implemented overnight.
+
+### 12. Despite not being enforceable, why are Principles of Policy important?
+**Answer:** They set the ideological direction for the state, guide policy-making, and represent the constitutional conscience and aspirations of Pakistan.

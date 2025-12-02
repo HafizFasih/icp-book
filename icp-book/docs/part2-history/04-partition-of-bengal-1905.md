@@ -9,7 +9,7 @@ keywords: [Partition of Bengal, 1905, Lord Curzon, Swadeshi Movement, East Benga
 
 ## Overview
 
-The Partition of Bengal in **1905** was a pivotal event in the history of the Subcontinent that significantly altered the political landscape of British India. It was implemented by the Viceroy, **Lord Curzon**, who divided the largest province of India into two separate administrative units: **West Bengal** and **East Bengal & Assam**. While the British claimed this was purely an administrative necessity due to the province's massive size, it was widely perceived by Indians—particularly Hindus—as a "Divide and Rule" tactic. This event is historically significant as it crystallized the political differences between Hindus and Muslims, eventually leading to the formation of the All India Muslim League.
+The Partition of Bengal in **1905** was a key event in the history of the Subcontinent that greatly changed the political landscape of British India. It was carried out by the Viceroy, **Lord Curzon**, who divided the largest province of India into two separate administrative units: **West Bengal** and **East Bengal & Assam**. While the British claimed this was only an administrative need because of the province's huge size, it was widely seen by Indians—especially Hindus—as a "Divide and Rule" tactic. This event is historically important as it made clear the political differences between Hindus and Muslims, eventually leading to the formation of the All India Muslim League.
 
 :::info
 The Partition of Bengal was **the single most important trigger** for explicit political separation between Hindus and Muslims in India.
@@ -44,7 +44,7 @@ Historians argue that the underlying British motive was strategic:
 - Use communal conflict to distract from anti-colonial sentiment
 
 :::warning
-While administrative efficiency was the official justification, historians widely recognize this was a classic "Divide and Rule" strategy using religion as the dividing line.
+While making administration easier was the official reason, historians widely agree this was a classic "Divide and Rule" strategy using religion as the dividing line.
 :::
 
 ### 2. The New Provinces
@@ -94,7 +94,7 @@ The Muslims of Bengal **welcomed** the partition with great relief and joy.
 - The British recognition of Muslim-majority areas suggested their separate identity would be respected
 
 :::tip
-For Muslims, the Partition of Bengal was a transformative moment - it moved them from being a minority seeking protection to a majority with political power in their own province.
+For Muslims, the Partition of Bengal was a life-changing moment - it moved them from being a minority seeking protection to a majority with political power in their own province.
 :::
 
 ### 4. Hindu Reaction (Strong Opposition)
@@ -402,3 +402,57 @@ Add detailed analysis of:
 - Role in Hindu-Muslim political divergence
 - Connection to subsequent demands for separate electorates
 - Broader imperialist strategy (Divide and Rule) in colonial India
+
+---
+
+## Summary Flashcards
+
+Use these flashcards for quick revision:
+
+### Card 1: Partition Overview
+**Q: What was the Partition of Bengal 1905?**
+**A:** Lord Curzon divided Bengal into West Bengal (Hindu-majority, capital Calcutta) and East Bengal & Assam (Muslim-majority, capital Dacca) on October 16, 1905.
+
+### Card 2: Official Reason
+**Q: What was the official British reason for partitioning Bengal?**
+**A:** Administrative need - Bengal was too large with 85 million people, making it hard for one Lieutenant Governor to govern effectively.
+
+### Card 3: Hidden Motive
+**Q: What did historians believe was the real reason for partition?**
+**A:** "Divide and Rule" - to weaken Bengali nationalism and the Indian National Congress by dividing Hindus and Muslims along religious lines.
+
+### Card 4: Muslim Reaction
+**Q: How did Muslims react to the Partition of Bengal?**
+**A:** They welcomed it with joy because it made them the majority in East Bengal, giving them hope for political power, economic freedom from Hindu landlords, and better job opportunities.
+
+### Card 5: Hindu Opposition
+**Q: How did Hindus oppose the partition?**
+**A:** They launched the Swadeshi Movement, boycotting British goods, observing October 16 as "Day of Mourning," and some turned to revolutionary violence.
+
+### Card 6: Two Provinces
+**Q: What were the two new provinces created?**
+**A:** West Bengal (with Bihar and Orissa, Hindu-majority, capital Calcutta) and East Bengal & Assam (Muslim-majority, capital Dacca/Dhaka).
+
+### Card 7: Annulment
+**Q: When was the Partition of Bengal annulled and why?**
+**A:** In 1911 by King George V at Delhi Durbar, due to continuous Hindu protests, economic boycott pressure, and threat of revolutionary violence.
+
+### Card 8: Muslim Betrayal
+**Q: How did Muslims feel after the annulment?**
+**A:** They felt deeply betrayed because the British reversed their policy due to Hindu agitation, showing British promises couldn't be trusted.
+
+### Card 9: Day of Mourning
+**Q: What was October 16 to Hindus?**
+**A:** They observed October 16, 1905 (partition date) as a "Day of Mourning" to protest against the division of Bengal.
+
+### Card 10: Swadeshi Movement
+**Q: What was the Swadeshi Movement?**
+**A:** A Hindu nationalist movement that boycotted British goods and promoted local products to resist the partition, sometimes turning to revolutionary violence.
+
+### Card 11: Muslim League Formation
+**Q: How did the Partition of Bengal lead to Muslim League?**
+**A:** Muslim hopes raised by partition and then crushed by annulment showed they needed their own political organization, leading directly to Muslim League formation in December 1906.
+
+### Card 12: Historical Importance
+**Q: Why was the Partition of Bengal historically important?**
+**A:** It was the first major political issue where Hindus and Muslims had completely opposite views, making clear their political interests were different and they couldn't work as one nation.

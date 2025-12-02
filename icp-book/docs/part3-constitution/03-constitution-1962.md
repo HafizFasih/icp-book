@@ -11,7 +11,7 @@ keywords: [constitution of 1962, presidential system, basic democracies, indirec
 
 ## Introduction
 
-The Constitution of 1962 was the **second constitution of Pakistan**, promulgated by **President Ayub Khan** on **March 1, 1962**, and enforced on **June 8, 1962**. It was designed to legitimize the military regime and introduce a political system that Ayub Khan believed was better suited to Pakistan's conditions than the parliamentary model.
+The Constitution of 1962 was the **second constitution of Pakistan**, announced by **President Ayub Khan** on **March 1, 1962**, and enforced on **June 8, 1962**. It was designed to legitimize the military regime and introduce a political system that Ayub Khan believed was better suited to Pakistan's conditions than the parliamentary model.
 
 Unlike the 1956 Constitution, which was a consensus document drafted by elected representatives, the **1962 Constitution was largely the product of a single individual's vision**, establishing a highly centralized presidential system that concentrated power in the hands of the President.
 
@@ -72,14 +72,14 @@ The regime argued that:
 This system was widely criticized as undemocratic, denying ordinary citizens the right to directly choose their national leaders. It became a symbol of Ayub Khan's paternalistic authoritarianism.
 :::
 
-### 3. Unicameral Legislature
+### 3. One-House Legislature
 
-The constitution established a **unicameral (single-house) legislature** known as the **National Assembly**.
+The constitution established a **one-house legislature** known as the **National Assembly**.
 
 **Composition:**
 - Initially consisted of **156 members** (later increased)
-- Provided **equal representation (parity)** to East and West Pakistan
-- Despite the parity principle continuing from 1956, East Pakistan had a larger population
+- Provided **equal representation** to East and West Pakistan
+- Despite the equal representation principle continuing from 1956, East Pakistan had a larger population
 
 **Limited Powers:**
 - The Assembly **could not vote on the budget** (except for new taxes)
@@ -200,7 +200,7 @@ This period is significant in Pakistani history as it saw the first successful p
 
 ## End of the 1962 Constitution
 
-On **March 25, 1969**, **General Yahya Khan** (who succeeded Ayub Khan) abrogated the 1962 Constitution and imposed **Martial Law**, marking the end of Ayub Khan's "decade of development" and his political system.
+On **March 25, 1969**, **General Yahya Khan** (who succeeded Ayub Khan) cancelled the 1962 Constitution and imposed **Martial Law**, marking the end of Ayub Khan's "decade of development" and his political system.
 
 Yahya Khan promised:
 - General elections to elect a Constituent Assembly
@@ -311,3 +311,43 @@ When answering comprehensively about the 1962 Constitution:
 
 This comprehensive approach will help you excel in exam answers!
 :::
+
+---
+
+## Flashcards for Quick Review
+
+### 1. Who introduced the 1962 Constitution?
+**Answer:** President Ayub Khan announced it on March 1, 1962, and enforced it on June 8, 1962.
+
+### 2. What type of government system did the 1962 Constitution establish?
+**Answer:** Presidential system (not parliamentary).
+
+### 3. What was the "Basic Democracies" system?
+**Answer:** An indirect election system where 80,000 Basic Democrats (local representatives) elected the President and assemblies, instead of direct voting by all citizens.
+
+### 4. How many Basic Democrats were there?
+**Answer:** 80,000 total - 40,000 from East Pakistan and 40,000 from West Pakistan.
+
+### 5. What was the "One Unit" scheme?
+**Answer:** A system where all western provinces (Punjab, Sindh, Balochistan, KPK) were merged into one administrative unit called West Pakistan.
+
+### 6. How many houses did the legislature have under the 1962 Constitution?
+**Answer:** One house (one-house legislature) called the National Assembly.
+
+### 7. Could the National Assembly vote on the budget?
+**Answer:** No, the Assembly could not vote on the budget except for new taxes, making it financially powerless.
+
+### 8. When was the 1962 Constitution cancelled?
+**Answer:** March 25, 1969, when General Yahya Khan imposed Martial Law.
+
+### 9. How long did the 1962 Constitution remain in force?
+**Answer:** About 6-7 years (from June 1962 to March 1969).
+
+### 10. What was the main criticism of the 1962 Constitution?
+**Answer:** It concentrated too much power in the President, denied direct voting rights, and lacked democratic legitimacy.
+
+### 11. Why did people oppose the Basic Democracies system?
+**Answer:** Citizens felt excluded from directly choosing their leaders, and it was seen as undemocratic and patronizing.
+
+### 12. What caused the 1962 Constitution to fail?
+**Answer:** Mass protests in 1968-69, lack of popular support, denial of direct voting, and provincial oppression through the One Unit scheme.

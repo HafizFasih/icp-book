@@ -5,7 +5,8 @@
       "Bash(dir:*)",
       "Bash(npm run build:*)",
       "Bash(npm start)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(ls \"D:\\icp\\icp-book\\docs\\part3-constitution\"\" | grep \"^0 \")"
     ],
     "deny": [],
     "ask": []

@@ -9,10 +9,10 @@ keywords: [Urdu-Hindi Controversy, Two-Nation Theory, Babu Shiva Prasad, Sir Sye
 
 ## Overview
 
-The Urdu-Hindi Controversy of 1867 was a significant event in the history of the Subcontinent that sowed the early seeds of the **Two-Nation Theory**. It began in **Banaras (Varanasi)** when prominent Hindu leaders demanded that Urdu, written in the Persian script, be replaced by Hindi, written in the Devanagari script, as the official language of the courts. This was the first time linguistic differences were used to create a political divide between Hindus and Muslims, marking a turning point in Hindu-Muslim relations.
+The Urdu-Hindi Controversy of 1867 was an important event in the history of the Subcontinent that planted the early seeds of the **Two-Nation Theory**. It began in **Banaras (Varanasi)** when leading Hindu leaders demanded that Urdu, written in the Persian script, be replaced by Hindi, written in the Devanagari script, as the official language of the courts. This was the first time language differences were used to create a political divide between Hindus and Muslims, marking a turning point in Hindu-Muslim relations.
 
 :::info
-The Urdu-Hindi Controversy was not primarily about language - it was a **political struggle for community dominance** and cultural hegemony.
+The Urdu-Hindi Controversy was not mainly about language - it was a **political struggle for community control** and cultural power.
 :::
 
 ## Detailed Explanation
@@ -40,16 +40,16 @@ The Urdu-Hindi Controversy was not primarily about language - it was a **politic
 - This was the first organized attempt to systematically remove Muslim cultural symbols
 
 :::warning
-The seemingly linguistic dispute masked deeper political and cultural anxieties about community dominance and minority rights.
+The language dispute on the surface hid deeper political and cultural fears about community control and minority rights.
 :::
 
 ### B. Sir Syed Ahmed Khan's Transformation
 
-**Before 1867 - The Advocate of Unity:**
-- Sir Syed Ahmed Khan was a strong advocate of Hindu-Muslim unity
+**Before 1867 - The Supporter of Unity:**
+- Sir Syed Ahmed Khan was a strong supporter of Hindu-Muslim unity
 - He often described the two communities as the "**two eyes of a beautiful bride**"
-- He believed peaceful coexistence was both possible and desirable
-- He worked actively to promote cooperation between the communities
+- He believed peaceful living together was both possible and desirable
+- He worked hard to promote cooperation between the communities
 
 **The Shock of Realization:**
 - The anti-Urdu agitation in Banaras shocked him deeply
@@ -306,3 +306,57 @@ Add detailed analysis of:
 - Analysis of how this event influenced subsequent political movements
 - Connection to broader Hindu-Muslim political divergence
 - Relevance to understanding the Partition itself
+
+---
+
+## Summary Flashcards
+
+Use these flashcards for quick revision:
+
+### Card 1: Controversy Overview
+**Q: What was the Urdu-Hindi Controversy of 1867?**
+**A:** An important event in Banaras where Hindu leaders demanded Hindi replace Urdu as the official court language. It was the first time language was used to create political division between Hindus and Muslims.
+
+### Card 2: Location and Year
+**Q: Where and when did the Urdu-Hindi Controversy begin?**
+**A:** It began in Banaras (Varanasi) in 1867.
+
+### Card 3: The Demand
+**Q: What did Hindu leaders demand in the controversy?**
+**A:** They demanded that Urdu (in Persian script) be replaced by Hindi (in Devanagari script) as the official language of courts and government.
+
+### Card 4: Before 1867
+**Q: What was Urdu's status before 1867?**
+**A:** Urdu had been the official court language since 1837, accepted peacefully by both Hindus and Muslims for 30 years as a common language.
+
+### Card 5: Key Hindu Leader
+**Q: Who was the main Hindu leader in the controversy?**
+**A:** Babu Shiva Prasad led the movement in Banaras against Urdu.
+
+### Card 6: Sir Syed Before
+**Q: What was Sir Syed's view before the controversy?**
+**A:** He strongly supported Hindu-Muslim unity and called the two communities "two eyes of a beautiful bride," believing they could live together peacefully.
+
+### Card 7: Famous Quote
+**Q: What did Sir Syed say to Mr. Shakespeare about the controversy?**
+**A:** "I am now convinced that these two nations will not join whole-heartedly in anything" - this was the first clear statement of the Two-Nation Theory.
+
+### Card 8: Sir Syed's Change
+**Q: How did the controversy change Sir Syed's thinking?**
+**A:** He shifted from being a supporter of Hindu-Muslim unity to believing they were two separate nations who could not work together.
+
+### Card 9: 1900 Re-eruption
+**Q: What happened in 1900 regarding the controversy?**
+**A:** Sir Anthony MacDonnell granted equal official status to Hindi, reigniting Muslim fears and protests.
+
+### Card 10: Urdu Defence Society
+**Q: What was the Urdu Defence Society?**
+**A:** An organization formed by Nawab Mohsin-ul-Mulk in 1900 to protect Urdu and defend Muslim cultural interests against Hindi imposition.
+
+### Card 11: Link to Two-Nation Theory
+**Q: Why was this controversy important for the Two-Nation Theory?**
+**A:** It showed that if Hindus and Muslims couldn't even agree on a common language, they couldn't function as one nation - proving they were two separate nations.
+
+### Card 12: Political Consequence
+**Q: What major political result came from this controversy?**
+**A:** It led directly to the formation of the All India Muslim League in 1906, showing Muslims needed their own political organization.

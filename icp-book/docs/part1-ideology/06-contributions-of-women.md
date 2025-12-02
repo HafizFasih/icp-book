@@ -12,7 +12,7 @@ keywords: [bi amma, fatima jinnah, begum ra'ana, women's movement, khilafat move
 
 ## Introduction
 
-The role of women in the Pakistan Movement is often described as the **"backbone" of the struggle for independence**. While the political stage was largely dominated by men, Muslim women played a **pivotal role** in mobilizing the masses, spreading political consciousness, and sustaining the momentum of the freedom struggle from the domestic sphere to the public streets.
+The role of women in the Pakistan Movement is often described as the **"backbone" of the struggle for independence**. While the political stage was largely controlled by men, Muslim women played a **key role** in bringing together the masses, spreading political awareness, and keeping the freedom struggle going from homes to public streets.
 
 The Pakistan Movement witnessed three generations of remarkable women who evolved from silent supporters to active political leaders:
 
@@ -21,7 +21,7 @@ The Pakistan Movement witnessed three generations of remarkable women who evolve
 3. **Begum Ra'ana Liaquat Ali Khan** (1905-1990): The post-independence organizer of state-level relief
 
 :::info Women's Role
-**Women were not just participants—they were architects of the movement.** They transformed the domestic sphere into a political power base, mobilized conservative Muslim populations, and provided critical organizational and relief infrastructure.
+**Women were not just participants—they were builders of the movement.** They transformed homes into political power centers, brought together conservative Muslim people, and provided important organizational and relief support.
 :::
 
 ---
@@ -652,3 +652,57 @@ Together, they provided the **complete package** needed to mobilize an entire so
 :::success Final Memory
 When you hear about women in the Pakistan Movement, remember: **They were not decorative supporters but essential architects.** Without them, the movement would have failed to mobilize millions of voters and manage the catastrophic Partition crisis.
 :::
+
+---
+
+## 📇 Summary Flashcards
+
+Use these flashcards for quick revision:
+
+### Card 1: Three Generations
+**Q: Who were the three generations of women leaders in Pakistan Movement?**
+**A:** 1) Bi Amma (1880s-1923) - broke social barriers, 2) Fatima Jinnah (1893-1967) - organized women politically, 3) Begum Ra'ana (1905-1990) - provided relief and services.
+
+### Card 2: Bi Amma's Contribution
+**Q: What were Bi Amma's main contributions to the Pakistan Movement?**
+**A:** She broke the purdah barrier, became first Muslim woman in politics, supported her sons (Ali Brothers) in Khilafat Movement, and showed women could participate without losing respectability.
+
+### Card 3: Famous Verse
+**Q: What was the famous verse associated with Bi Amma?**
+**A:** "Boli Amma Muhammad Ali se, jaan beta Khilafat pe de do" (Amma said to Muhammad Ali, "Give your life for the sake of the Khilafat").
+
+### Card 4: Fatima Jinnah's Role
+**Q: Why is Fatima Jinnah called "Madar-e-Millat"?**
+**A:** She was Quaid's constant companion and advisor, organized women through committees (1938), led election campaigns (1945-46), and became the Mother of the Nation.
+
+### Card 5: Women's Sub-Committee
+**Q: What was the All-India Muslim Women's Sub-Committee?**
+**A:** Founded in 1938 at Patna Session with Fatima Jinnah as Convener. It organized women from national to grassroots level for political participation.
+
+### Card 6: 1945-46 Elections
+**Q: How did women contribute to the 1945-46 elections?**
+**A:** Fatima Jinnah toured the country urging women to vote. Women broke purdah to visit polling stations. Their massive turnout helped Muslim League win decisively.
+
+### Card 7: Begum Ra'ana's Work
+**Q: What were Begum Ra'ana Liaquat Ali Khan's main contributions?**
+**A:** She had a Master's in Economics, founded Pakistan Women's National Guard (PWNG) and Women's Voluntary Service (WVS), provided relief to Partition refugees, and held Brigadier rank.
+
+### Card 8: BAR Acronym
+**Q: What does the "BAR" acronym stand for in women's contributions?**
+**A:** B = Bi Amma, A = (Fatima Jinnah), R = Ra'ana Begum - the three key women leaders.
+
+### Card 9: Three B's and C's
+**Q: What are the "3 B's" for Bi Amma and "3 C's" for Fatima Jinnah?**
+**A:** Bi Amma: Broke purdah, Born Ali Brothers (support), Built confidence. Fatima: Companion to Quaid, Committee organizer, Campaign manager.
+
+### Card 10: Three-Tier Model
+**Q: What are the three tiers of women's activism?**
+**A:** Tier 1: Legitimization (Bi Amma proved women could participate), Tier 2: Mobilization (Fatima organized at scale), Tier 3: Institutionalization (Ra'ana created permanent structures).
+
+### Card 11: Women's Advantages
+**Q: What unique advantages did women bring to the Pakistan Movement?**
+**A:** Access to homes where men couldn't go, ability to convince conservative families, natural association with care work, trusted by women refugees, and moral authority in Islamic tradition.
+
+### Card 12: Why Important
+**Q: Why were women essential to Pakistan Movement's success?**
+**A:** They mobilized millions of voters, reached rural and conservative areas men couldn't access, managed Partition relief crisis, and proved the demand for Pakistan had universal Muslim support including women.

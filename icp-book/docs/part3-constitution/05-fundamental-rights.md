@@ -13,12 +13,12 @@ keywords: [fundamental rights, articles 8-25, constitutional rights, justice, fr
 
 **Fundamental Rights** are the basic human rights guaranteed to every citizen of a state, ensuring their liberty, dignity, and equality. In the **Constitution of Pakistan 1973**, these rights are enshrined in **Part II, Chapter 1 (Articles 8–28)**.
 
-These rights are considered **"justiciable,"** meaning that if the state violates these rights, a citizen can approach the **High Court** (under Article 199) or the **Supreme Court** (under Article 184(3)) for enforcement. This judicial enforcement mechanism is crucial—it transforms fundamental rights from merely theoretical declarations into enforceable legal protections.
+These rights are considered **"enforceable in court,"** meaning that if the state violates these rights, a citizen can approach the **High Court** (under Article 199) or the **Supreme Court** (under Article 184(3)) for enforcement. This judicial enforcement mechanism is crucial—it transforms fundamental rights from merely theoretical declarations into enforceable legal protections.
 
 The fundamental rights form the **bedrock of democracy in Pakistan**, limiting the power of the state and protecting the individual from tyranny and governmental excess.
 
 :::success Constitutional Protection
-The inclusion of justiciable fundamental rights ensures that citizens are not merely subjects of the state but rights-bearing individuals whose dignity and liberty are constitutionally protected.
+The inclusion of court-enforceable fundamental rights ensures that citizens are not merely subjects of the state but rights-bearing individuals whose dignity and liberty are constitutionally protected.
 :::
 
 ---
@@ -595,3 +595,43 @@ When answering about Fundamental Rights:
 
 Use the memory tips and mnemonics to recall details accurately!
 :::
+
+---
+
+## Flashcards for Quick Review
+
+### 1. What are fundamental rights and where are they found in the Constitution?
+**Answer:** Basic human rights guaranteed to citizens, found in Part II, Chapter 1 (Articles 8-28) of the 1973 Constitution.
+
+### 2. What does "enforceable in court" mean for fundamental rights?
+**Answer:** Citizens can go to court (High Court or Supreme Court) if their fundamental rights are violated by the state.
+
+### 3. What does Article 8 say about fundamental rights?
+**Answer:** The state cannot make any law that takes away or reduces fundamental rights. Any such law is void.
+
+### 4. What is Article 9 about?
+**Answer:** Security of person - No person can be deprived of life or liberty except according to law.
+
+### 5. What are the four key protections in Article 10 when someone is arrested?
+**Answer:** (1) Must be told reasons for arrest, (2) Right to consult a lawyer, (3) Must be produced before magistrate within 24 hours, (4) Cannot be detained beyond 24 hours without judicial permission.
+
+### 6. What does Article 11 prohibit?
+**Answer:** Slavery and forced labor. Children under 14 cannot work in factories or mines.
+
+### 7. What is Article 19 about?
+**Answer:** Freedom of speech and expression, and freedom of the press.
+
+### 8. What three new rights were added by the 18th Amendment?
+**Answer:** Right to Information (19-A), Right to Fair Trial (10-A), and Right to Education (25-A).
+
+### 9. What does Article 25 guarantee?
+**Answer:** Equality of citizens - all citizens are equal before the law with equal protection, and no discrimination based on sex alone.
+
+### 10. What is Article 25-A about?
+**Answer:** Right to free and compulsory education for all children aged 5 to 16 years.
+
+### 11. What are the five types of writs courts can issue to protect fundamental rights?
+**Answer:** Habeas Corpus, Mandamus, Prohibition, Quo Warranto, and Certiorari.
+
+### 12. Can fundamental rights be restricted?
+**Answer:** Yes, but only reasonable restrictions for security of state, public order, morality, health, or safety.

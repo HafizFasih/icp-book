@@ -11,11 +11,11 @@ keywords: [two nation theory, sir syed ahmed khan, allama iqbal, lahore resoluti
 
 ## Introduction
 
-The **Two-Nation Theory** is the ideological foundation of Pakistan. It states that Muslims and Hindus in the Subcontinent are not merely two religious communities, but two distinct nations with their own unique cultures, civilizations, languages, and laws.
+The **Two-Nation Theory** is the basic foundation of Pakistan. It states that Muslims and Hindus in the Subcontinent are not just two religious communities, but two separate nations with their own unique cultures, civilizations, languages, and laws.
 
-Unlike European nationalism, which is based on territory or race, this theory is based on **Islamic ideology**.
+Unlike European nationalism, which is based on land or race, this theory is based on **Islamic ideology**.
 
-While the differences existed for centuries, the theory evolved from a vague social distinctness into a clear political demand for a separate homeland between **1867 and 1940**.
+While the differences existed for centuries, the theory changed from an unclear social difference into a clear political demand for a separate homeland between **1867 and 1940**.
 
 ---
 
@@ -36,7 +36,7 @@ He famously predicted to Mr. Shakespeare (Divisional Commissioner of Banaras):
 
 > "Hindus and Muslims are two separate nations"
 
-He warned that their paths would widen with time. This was the **first modern articulation** of the theory.
+He warned that their paths would widen with time. This was the **first modern statement** of the theory.
 
 :::info Significance
 This marked the transition from religious difference to **political distinctness** - the foundation of the Two-Nation Theory.
@@ -89,7 +89,7 @@ The brutal treatment of Muslims during the Congress ministries served as the **f
 Muslims could not expect justice in a united India.
 
 #### 3. The Lahore Resolution (1940)
-The evolution reached its climax on **March 23, 1940**. Quaid-e-Azam formally declared:
+The evolution reached its peak on **March 23, 1940**. Quaid-e-Azam officially declared:
 
 > "Musalmans are a nation by any definition"
 
@@ -119,13 +119,13 @@ The differences were not just **religious** but encompassed **every aspect of li
 
 ## Conclusion
 
-The Two-Nation Theory did not emerge overnight; it was a **gradual realization** born out of historical experience:
+The Two-Nation Theory did not emerge overnight; it was a **slow realization** born out of historical experience:
 
 1. **Sir Syed**: Began as a defense of Muslim culture and political rights
 2. **Allama Iqbal**: Gained philosophical depth and geographic shape
 3. **Quaid-e-Azam**: Transformed into a political reality
 
-It provided the **moral and democratic justification** for the Partition of India, proving that the peace of the Subcontinent lay in recognizing Muslims as a separate, sovereign nation.
+It provided the **moral and democratic reason** for the Partition of India, proving that the peace of the Subcontinent lay in recognizing Muslims as a separate, independent nation.
 
 ---
 
@@ -207,3 +207,57 @@ Imagine walking through your house:
 - **Kitchen** = Bengal divided like cutting a cake (1905)
 - **Bedroom** = Iqbal dreaming of Pakistan (1930)
 - **Main Door** = Jinnah opening door to Pakistan (1940)
+
+---
+
+## 📇 Summary Flashcards
+
+Use these flashcards for quick revision:
+
+### Card 1: What is Two-Nation Theory?
+**Q: What is the Two-Nation Theory?**
+**A:** The belief that Muslims and Hindus are two separate nations with different cultures, civilizations, languages, and laws - not just two religious communities.
+
+### Card 2: Three Phases of Evolution
+**Q: What are the three phases of Two-Nation Theory evolution?**
+**A:** Phase I: Intellectual Foundation (Sir Syed, 1867), Phase II: Political Awakening (1905-1930), Phase III: Political Crystallization (1930-1940).
+
+### Card 3: Sir Syed's Role
+**Q: What was Sir Syed Ahmed Khan's contribution to the Two-Nation Theory?**
+**A:** He was the first to use the term "Two Nations" after the Hindi-Urdu Controversy of 1867, realizing Hindus and Muslims could not join hands politically.
+
+### Card 4: Hindi-Urdu Controversy
+**Q: What was the Hindi-Urdu Controversy and when did it happen?**
+**A:** In 1867, Hindu leaders wanted Hindi to replace Urdu as the official language. This made Sir Syed realize that Hindus and Muslims were two separate nations.
+
+### Card 5: Allama Iqbal's Contribution
+**Q: What did Allama Iqbal add to the Two-Nation Theory?**
+**A:** In his 1930 Allahabad Address, he gave the theory a geographic shape by proposing a Muslim state in northwestern India (Punjab, NWFP, Sindh, Balochistan).
+
+### Card 6: Lahore Resolution
+**Q: When was the Lahore Resolution passed and what did it demand?**
+**A:** Passed on March 23, 1940. Quaid-e-Azam demanded a separate homeland, transforming the Two-Nation Theory into a direct political movement for Pakistan.
+
+### Card 7: Key Differences
+**Q: Name three main differences between Hindus and Muslims according to the Two-Nation Theory.**
+**A:** 1) Religion: Muslims believe in one God, Hindus worship many gods. 2) Social System: Islam teaches equality, Hindus follow caste system. 3) Language: Muslims use Urdu, Hindus use Hindi.
+
+### Card 8: Congress Rule Impact
+**Q: How did Congress rule (1937-1939) prove the Two-Nation Theory?**
+**A:** Congress treated Muslims badly, forced them to sing anti-Muslim songs, excluded them from government jobs, and persecuted their religion, proving Muslims couldn't expect justice in united India.
+
+### Card 9: Nehru Report
+**Q: What was the Nehru Report and why was it important?**
+**A:** The 1928 Nehru Report rejected all Muslim demands including separate electorates and representation. It ended hopes for Hindu-Muslim unity and pushed Muslims toward separation.
+
+### Card 10: Evolution Timeline
+**Q: What are the key dates in Two-Nation Theory evolution?**
+**A:** 1867 (Hindi-Urdu Controversy), 1905 (Bengal Partition), 1930 (Iqbal's Address), 1940 (Lahore Resolution), 1947 (Pakistan achieved).
+
+### Card 11: Three Leaders' Roles
+**Q: How did the three leaders develop the Two-Nation Theory?**
+**A:** Sir Syed = Planted the seed (idea of two nations), Iqbal = Drew the blueprint (geographic vision), Jinnah = Built the building (political reality).
+
+### Card 12: Why Theory Was Important
+**Q: Why was the Two-Nation Theory important for Pakistan?**
+**A:** It provided the moral and democratic reason for Partition, proving that peace in the subcontinent required recognizing Muslims as a separate, independent nation.

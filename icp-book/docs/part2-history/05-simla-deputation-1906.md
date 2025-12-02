@@ -9,10 +9,10 @@ keywords: [Simla Deputation, 1906, Sir Aga Khan III, Lord Minto, separate electo
 
 ## Overview
 
-The Simla Deputation refers to a delegation of **35 prominent Muslim leaders**, led by **Sir Aga Khan III**, who met the Viceroy of India, **Lord Minto**, at Simla on **October 1, 1906**. The primary objective of this mission was to secure separate political rights and safeguards for the Muslim community in anticipation of the upcoming constitutional reforms (later known as the Minto-Morley Reforms). This event represents the first systematic attempt by Muslims to present their demands to the British government on a constitutional platform.
+The Simla Deputation refers to a group of **35 leading Muslim leaders**, led by **Sir Aga Khan III**, who met the Viceroy of India, **Lord Minto**, at Simla on **October 1, 1906**. The main goal of this mission was to get separate political rights and protections for the Muslim community in preparation for the upcoming constitutional reforms (later known as the Minto-Morley Reforms). This event represents the first organized attempt by Muslims to present their demands to the British government on a constitutional platform.
 
 :::info
-The Simla Deputation was a **phenomenal success** that officially recognized Muslims as a distinct political entity and directly led to the formation of the All India Muslim League just three months later.
+The Simla Deputation was a **huge success** that officially recognized Muslims as a separate political group and directly led to the formation of the All India Muslim League just three months later.
 :::
 
 ## Detailed Explanation
@@ -42,7 +42,7 @@ The Simla Deputation was a **phenomenal success** that officially recognized Mus
   - This would create a permanent political disadvantage
 
 :::warning
-Muslims correctly perceived that numerical majority in a joint electorate would permanently exclude them from political representation.
+Muslims correctly understood that being the minority in a joint voting system would permanently keep them out of political representation.
 :::
 
 ### 2. Key Demands Presented
@@ -362,3 +362,57 @@ Add detailed analysis of:
 - Constitutional significance of the reforms
 - Direct link to later demand for Pakistan
 - Role in transforming Muslim political identity
+
+---
+
+## Summary Flashcards
+
+Use these flashcards for quick revision:
+
+### Card 1: Deputation Overview
+**Q: What was the Simla Deputation?**
+**A:** A group of 35 leading Muslim leaders led by Sir Aga Khan III who met Viceroy Lord Minto at Simla on October 1, 1906, to demand separate political rights for Muslims.
+
+### Card 2: Main Demand
+**Q: What was the main demand of the Simla Deputation?**
+**A:** Separate Electorates - the right for Muslims to vote for and elect their own representatives in separate constituencies.
+
+### Card 3: Why Separate Electorates
+**Q: Why did Muslims demand separate electorates?**
+**A:** They feared that in a joint voting system, the Hindu majority would permanently outvote them, and no Muslim candidates would be elected to legislatures.
+
+### Card 4: Other Demands
+**Q: What were the other three demands besides separate electorates?**
+**A:** 1) Weightage (more seats than just population numbers), 2) Fair share of government jobs, 3) Representation in universities and educational institutions.
+
+### Card 5: Who Drafted Memorial
+**Q: Who drafted the memorial presented to Lord Minto?**
+**A:** Nawab Mohsin-ul-Mulk, along with other Muslim leaders.
+
+### Card 6: Lord Minto's Response
+**Q: How did Lord Minto respond to the deputation?**
+**A:** Very sympathetically. He assured that Muslim interests would be protected and agreed that numerical strength alone shouldn't determine representation in a mixed society.
+
+### Card 7: Background Factors
+**Q: What three factors led to the Simla Deputation?**
+**A:** 1) Hindi-Urdu Controversy showing Hindu-Muslim divide, 2) Congress showing Hindu bias, 3) Fear of upcoming constitutional reforms with joint electorates.
+
+### Card 8: Immediate Result 1
+**Q: What happened three months after the Simla Deputation?**
+**A:** The All India Muslim League was formed in December 1906, directly inspired by the deputation's success.
+
+### Card 9: Immediate Result 2
+**Q: Which reforms implemented the deputation's demands?**
+**A:** The Minto-Morley Reforms of 1909, which legally established separate electorates for Muslims.
+
+### Card 10: Two-Nation Theory
+**Q: How did the Simla Deputation validate the Two-Nation Theory?**
+**A:** By getting separate electorates, it constitutionally recognized that Hindus and Muslims were separate political groups who needed different representation systems.
+
+### Card 11: Historical Importance
+**Q: Why was the Simla Deputation historically important?**
+**A:** It was the first organized Muslim political action, led to Muslim League formation, got separate electorates accepted, and laid the constitutional foundation for the Pakistan Movement.
+
+### Card 12: Long-term Impact
+**Q: How did the Simla Deputation lead to Pakistan?**
+**A:** It established Muslims as a separate political group, created the Muslim League, and set the precedent for Muslim separate political rights that eventually led to demanding a separate homeland.

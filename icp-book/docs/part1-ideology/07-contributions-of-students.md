@@ -12,12 +12,12 @@ keywords: [student movement, all india muslim students federation, youth activis
 
 ## Introduction
 
-Students and youth served as the **"arsenal of Muslim India,"** to use Quaid-e-Azam Muhammad Ali Jinnah's famous phrase. While seasoned politicians debated constitutions in drawing rooms, it was **students who translated ideology into mass reality**, carried the message of Pakistan to remote villages, and sustained the Civil Disobedience Movement when political negotiations faltered.
+Students and youth served as the **"arsenal of Muslim India,"** to use Quaid-e-Azam Muhammad Ali Jinnah's famous phrase. While experienced politicians debated constitutions in drawing rooms, it was **students who turned ideology into mass reality**, carried the message of Pakistan to remote villages, and kept the Civil Disobedience Movement going when political talks failed.
 
 The Pakistan Movement was ultimately won not in the halls of power but on the streets, in the villages, and in the minds of ordinary people—**and this victory was achieved largely through the tireless efforts of the student community**.
 
 :::info The Arsenal Concept
-Jinnah's metaphor of students as the "arsenal" of Muslim India suggests that students were not just supporters but the **primary weapons in the freedom struggle**. They provided energy, idealism, organization, and reach that no other group could match.
+Jinnah's comparison of students as the "arsenal" of Muslim India suggests that students were not just supporters but the **main weapons in the freedom struggle**. They provided energy, idealism, organization, and reach that no other group could match.
 :::
 
 ---
@@ -578,3 +578,57 @@ Imagine **Aligarh University Campus**:
 :::success Final Insight
 When you think of the Pakistan Movement, remember that while **Iqbal dreamt it, Jinnah led it, and women mobilized it**—it was **students who brought it to reality** by reaching into villages, educating masses, and sustaining the movement when political negotiations stalled.
 :::
+
+---
+
+## 📇 Summary Flashcards
+
+Use these flashcards for quick revision:
+
+### Card 1: Students as Arsenal
+**Q: Why did Jinnah call students the "arsenal" of Muslim India?**
+**A:** Students were the main weapons in the freedom struggle. They provided energy, idealism, organization, and reach that no other group could match.
+
+### Card 2: AIMSF Formation
+**Q: What was AIMSF and when was it founded?**
+**A:** All-India Muslim Students Federation, founded in 1937 by Jinnah's direction. It organized Muslim students for the Pakistan Movement independently from Congress-led groups.
+
+### Card 3: 1945-46 Elections Role
+**Q: How did students contribute to the 1945-46 elections?**
+**A:** They suspended studies, traveled to remote villages, did door-to-door campaigning, explained Two-Nation Theory, and organized transport to polling stations. They became the League's election machinery.
+
+### Card 4: Election Results
+**Q: What were the results of the 1945-46 elections?**
+**A:** Muslim League won decisively: Punjab (75 of 86 seats), Bengal (113 of 119), UP (27 of 27). Students' activism was key to this 88% overall victory.
+
+### Card 5: Civil Disobedience Movement
+**Q: When and where did students lead Civil Disobedience Movement?**
+**A:** January-March 1947 in Punjab, especially Lahore and Rawalpindi. Students defied Section 144, faced tear gas, courted arrest, and hoisted Muslim League flag on Punjab Secretariat.
+
+### Card 6: Khizar's Resignation
+**Q: What did students achieve through Civil Disobedience?**
+**A:** On March 2, 1947, facing massive pressure from student-led protests, Khizar Hayat Khan resigned, removing the last major obstacle to Pakistan in Punjab.
+
+### Card 7: Four A's
+**Q: What are the "Four A's" of student contributions?**
+**A:** 1) Activation (1937 AIMSF founding), 2) Active campaigns (1945-46 elections), 3) Action (Civil Disobedience), 4) Arsenal (Jinnah's description).
+
+### Card 8: Aligarh's Role
+**Q: Why was Aligarh Muslim University important to the movement?**
+**A:** It was the epicenter of student activism, training ground for leaders, intellectual center for Two-Nation Theory understanding, and source of committed activists who spread across India.
+
+### Card 9: Rural Penetration
+**Q: How did students reach rural areas where politicians couldn't?**
+**A:** They had credibility (came from villages), spoke local languages, related to rural youth, showed genuine passion, and could visit homes without formal protocols.
+
+### Card 10: Women Students
+**Q: How did women students contribute to the movement?**
+**A:** They organized women-only meetings, convinced conservative mothers to vote, mobilized women voters in areas men couldn't access, and even participated in Civil Disobedience Movement.
+
+### Card 11: Famous Slogan
+**Q: What slogan did students popularize during elections?**
+**A:** "Ban ke rahe ga Pakistan" (Pakistan will definitely be formed). It was hopeful, presented partition as inevitable, and was simple enough for illiterate farmers to remember.
+
+### Card 12: Why Students Succeeded
+**Q: Why were students uniquely effective in the Pakistan Movement?**
+**A:** They could reach remote areas, mobilize women and youth, sustain long-term effort, scale rapidly through universities, and bring idealism that paid workers couldn't match.

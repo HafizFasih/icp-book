@@ -11,9 +11,9 @@ keywords: [constitution of 1956, first constitution, islamic republic, parliamen
 
 ## Introduction
 
-After independence in 1947, Pakistan was governed under the **Government of India Act 1935** (as interim constitution) for nine years. The long struggle to frame a constitution finally succeeded under the Prime Ministership of **Chaudhry Muhammad Ali**.
+After independence in 1947, Pakistan was governed under the **Government of India Act 1935** (as temporary constitution) for nine years. The long struggle to create a constitution finally succeeded under the Prime Ministership of **Chaudhry Muhammad Ali**.
 
-The **first constitution was passed by the Constituent Assembly on February 29, 1956** and was enforced on **March 23, 1956**, marking Pakistan's transformation from a **Dominion** to a **Sovereign Islamic Republic**. It remained in force for about two and a half years before being abrogated by the first Martial Law in October 1958.
+The **first constitution was passed by the Constituent Assembly on February 29, 1956** and was enforced on **March 23, 1956**, marking Pakistan's transformation from a **Dominion** to a **Sovereign Islamic Republic**. It remained in force for about two and a half years before being cancelled by the first Martial Law in October 1958.
 
 :::info Republic Day
 March 23, 1956 is celebrated as **Pakistan Day** or **Republic Day**, commemorating the adoption of the first constitution.
@@ -67,27 +67,27 @@ The system adopted was **parliamentary**, with clear separation of powers:
 - The **President** was the Head of State, largely ceremonial
 - Had the power to appoint the PM and dissolve the assembly under specific conditions
 
-### 5. Unicameral Legislature
+### 5. One-House Legislature
 
-Unlike the current bicameral system, the 1956 Constitution introduced a **unicameral legislature** (one house) known as the **National Assembly**.
+Unlike the current two-house system, the 1956 Constitution introduced a **one-house legislature** known as the **National Assembly**.
 
 **Key Characteristics:**
 - Single house for all legislative business
 - No separate upper house to represent provinces
 - Debates and legislation conducted in one chamber
 
-### 6. Principle of Parity
+### 6. Principle of Equal Representation
 
-To resolve the **representation conflict between East and West Pakistan**, the constitution adopted the **"Principle of Parity."** This was controversial but represented a political compromise.
+To resolve the **representation conflict between East and West Pakistan**, the constitution adopted the **"Principle of Equal Representation."** This was controversial but represented a political compromise.
 
-**The Parity System:**
+**The Equal Representation System:**
 - The National Assembly consisted of **300 members**
 - **150 members from East Pakistan** (despite having a larger population)
 - **150 members from West Pakistan** (despite having a smaller population)
 - Equal representation regardless of population difference
 
 :::warning Contentious Principle
-The parity principle was deeply unpopular in East Pakistan, as it denied the eastern region representation proportional to its population (about 55% of total). This resentment contributed to later tensions leading to the 1971 war.
+The equal representation principle was deeply unpopular in East Pakistan, as it denied the eastern region representation based on its population (about 55% of total). This resentment contributed to later tensions leading to the 1971 war.
 :::
 
 ### 7. Independence of Judiciary
@@ -116,9 +116,9 @@ The 1956 Constitution included several specific Islamic provisions:
 
 It was **mandatory that the President of Pakistan must be a Muslim**, ensuring Islamic principles guided the highest office.
 
-### 2. Repugnancy to Islam Clause
+### 2. Laws Must Not Be Against Islam
 
-**No law could be passed that was repugnant (contrary) to the teachings of the Quran and Sunnah.** This provision:
+**No law could be passed that was against the teachings of the Quran and Sunnah.** This provision:
 
 - Protected the supremacy of Islamic law
 - Created a constitutional safeguard for Islamic principles
@@ -171,7 +171,7 @@ Parliament (Unicameral National Assembly - 300 Members)
 
 ## Reasons for Failure and Abrogation
 
-Despite its significance, the 1956 Constitution was short-lived. It was abrogated on **October 7, 1958** by President Iskander Mirza, leading to the imposition of Martial Law by General Ayub Khan. The constitution failed largely due to:
+Despite its significance, the 1956 Constitution was short-lived. It was cancelled on **October 7, 1958** by President Iskander Mirza, leading to the imposition of Martial Law by General Ayub Khan. The constitution failed largely due to:
 
 ### 1. Political Instability
 
@@ -299,3 +299,43 @@ When studying the 1956 Constitution:
 
 This approach ensures comprehensive coverage!
 :::
+
+---
+
+## Flashcards for Quick Review
+
+### 1. When was the 1956 Constitution passed and enforced?
+**Answer:** Passed on February 29, 1956, and enforced on March 23, 1956.
+
+### 2. Who was the Prime Minister when the 1956 Constitution was passed?
+**Answer:** Chaudhry Muhammad Ali.
+
+### 3. What type of government system did the 1956 Constitution establish?
+**Answer:** Parliamentary form of government.
+
+### 4. How many houses did the legislature have under the 1956 Constitution?
+**Answer:** One house (one-house legislature) called the National Assembly.
+
+### 5. What was the principle of equal representation?
+**Answer:** The National Assembly had 300 members - 150 from East Pakistan and 150 from West Pakistan, giving equal representation regardless of population.
+
+### 6. Why was the equal representation principle controversial?
+**Answer:** East Pakistan had a larger population (55%) but got only 50% representation, which created resentment.
+
+### 7. What were the two national languages declared in the 1956 Constitution?
+**Answer:** Urdu and Bengali.
+
+### 8. When was the 1956 Constitution cancelled?
+**Answer:** October 7, 1958, when Martial Law was imposed.
+
+### 9. How long did the 1956 Constitution remain in force?
+**Answer:** About 2.5 years (from March 1956 to October 1958).
+
+### 10. What was the main reason the 1956 Constitution failed?
+**Answer:** Political instability, no general elections held, equal representation tensions, and weak executive.
+
+### 11. What did Pakistan become on March 23, 1956?
+**Answer:** Pakistan became an Islamic Republic (from a Dominion to Sovereign Islamic Republic).
+
+### 12. What was the Islamic provision about laws in the 1956 Constitution?
+**Answer:** No law could be passed that was against the teachings of the Quran and Sunnah.

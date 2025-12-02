@@ -52,7 +52,7 @@ The constitution establishes a **federal structure** comprising:
 - **Federal List** → Powers of the federal government
 - **Concurrent List** → Powers shared by federal and provincial governments
   - (Abolished by 18th Amendment in 2010, transferring these powers to provinces)
-- **Residuary Powers** → Powers not mentioned go to provinces
+- **Remaining Powers** → Powers not mentioned go to provinces
 
 **Federal Character:**
 - Provincial autonomy within federal framework
@@ -85,9 +85,9 @@ The 1973 Constitution returned to the **parliamentary system** after Ayub Khan's
 The 1973 Constitution emphasizes that the Prime Minister and cabinet are ultimately answerable to the elected representatives of the people, making Parliament the supreme institution.
 :::
 
-### 4. Bicameral Legislature
+### 4. Two-House Legislature
 
-For the first time in Pakistan's history, a **bicameral legislature (two houses)** was introduced to balance representation and ensure federal harmony.
+For the first time in Pakistan's history, a **two-house legislature** was introduced to balance representation and ensure federal harmony.
 
 **The National Assembly (Lower House):**
 - **Elected on the basis of population**
@@ -102,7 +102,7 @@ For the first time in Pakistan's history, a **bicameral legislature (two houses)
 - Ensures smaller provinces are not dominated by larger ones
 - Represents federal character of the state
 
-**Why Bicameral?**
+**Why Two Houses?**
 The two-house system was designed to:
 - Balance population-based and equality-based representation
 - Prevent tyranny of the majority
@@ -476,3 +476,43 @@ When answering about the 1973 Constitution:
 
 Total time: 37 minutes for a comprehensive answer!
 :::
+
+---
+
+## Flashcards for Quick Review
+
+### 1. When was the 1973 Constitution passed and enforced?
+**Answer:** Passed on April 10, 1973, and came into full force on August 14, 1973.
+
+### 2. Who was the leader when the 1973 Constitution was passed?
+**Answer:** Zulfikar Ali Bhutto (during the PPP government).
+
+### 3. What type of government system does the 1973 Constitution establish?
+**Answer:** Parliamentary form of government.
+
+### 4. How many houses does the legislature have under the 1973 Constitution?
+**Answer:** Two houses - National Assembly (lower house) and Senate (upper house).
+
+### 5. What is the difference between the National Assembly and Senate?
+**Answer:** National Assembly is based on population (333 seats). Senate gives equal representation to all provinces (23 seats each).
+
+### 6. How many provinces does Pakistan have under the 1973 Constitution?
+**Answer:** Four provinces - Punjab, Sindh, Khyber Pakhtunkhwa (KPK), and Balochistan.
+
+### 7. Is the 1973 Constitution still in force?
+**Answer:** Yes, it has been in force for over 50 years and is still Pakistan's supreme law.
+
+### 8. What type of constitution is the 1973 Constitution?
+**Answer:** A rigid constitution (requires two-thirds majority in both houses to amend).
+
+### 9. What are three fundamental rights added by the 18th Amendment?
+**Answer:** Right to Education (Article 25-A), Right to Information (Article 19-A), and Right to Fair Trial (Article 10-A).
+
+### 10. What is the main Islamic provision in the 1973 Constitution?
+**Answer:** Islam is the state religion, both President and Prime Minister must be Muslims, and laws must conform to Quran and Sunnah.
+
+### 11. Why has the 1973 Constitution been more successful than earlier constitutions?
+**Answer:** It was drafted by elected representatives, has a balanced federal structure, protects fundamental rights, and allows amendments while maintaining stability.
+
+### 12. How many amendments have been made to the 1973 Constitution?
+**Answer:** 26 amendments have been made since 1973, showing it can adapt to changing circumstances.

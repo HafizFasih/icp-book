@@ -9,7 +9,7 @@ keywords: [War of Independence, 1857, Sepoy Mutiny, Enfield Rifle, Doctrine of L
 
 ## Overview
 
-The War of Independence of 1857 was a watershed moment in the history of the Subcontinent. It was the first major armed struggle by the Indians against the British East India Company's rule. While the British often referred to it as the "Sepoy Mutiny," for the locals, it was a fight for freedom and survival. The war did not happen due to a single event but was the result of decades of accumulated grievances across all sections of society.
+The War of Independence of 1857 was a turning point in the history of the Subcontinent. It was the first major armed fight by Indians against the British East India Company's rule. While the British often called it the "Sepoy Mutiny," for local people, it was a fight for freedom and survival. The war did not happen because of a single event but was the result of many years of built-up anger across all parts of society.
 
 :::info
 The War of 1857 is often called the **"First War of Independence"** or **"Sepoy Mutiny"** by different sources. It unified Indians from different backgrounds in their opposition to British rule.
@@ -19,21 +19,21 @@ The War of 1857 is often called the **"First War of Independence"** or **"Sepoy 
 
 ### 1. Political and Economic Grievances
 
-The aggressive expansionist policies of the British created deep insecurity among Indian rulers. Lord Dalhousie's **Doctrine of Lapse** was particularly hated; it stated that if a ruler died without a natural male heir, their state would be annexed by the British. This led to the seizure of states like:
+The British policies of taking over new lands created deep fear among Indian rulers. Lord Dalhousie's **Doctrine of Lapse** was especially hated. It said that if a ruler died without a natural male heir, the British would take over their state. This led to the taking over of states like:
 - Jhansi
 - Satara
 - Nagpur
 
-Furthermore, the **annexation of Oudh (Awadh)** in 1856 on grounds of "misgovernance" angered thousands of soldiers who came from that region.
+Also, the **taking over of Oudh (Awadh)** in 1856 on grounds of "bad government" angered thousands of soldiers who came from that region.
 
-**Economic Exploitation:**
-- The British exploited India's resources to fuel the Industrial Revolution in Britain
-- Heavy taxes imposed on Indian goods
-- Cheap machine-made British textiles flooded the local market
+**Economic Mistreatment:**
+- The British used India's resources to help the Industrial Revolution in Britain
+- Heavy taxes were put on Indian goods
+- Cheap machine-made British cloth filled the local market
 - Local handloom industry was destroyed
-- Millions of weavers and artisans became unemployed and starved
-- Peasantry was crushed under harsh land revenue systems
-- Widespread poverty affected all classes
+- Millions of weavers and craftsmen lost their jobs and starved
+- Farmers suffered under harsh land tax systems
+- Poverty spread across all classes
 
 :::warning
 The **Doctrine of Lapse** was one of the most hated policies because it threatened the stability and security of Indian kingdoms.
@@ -41,13 +41,13 @@ The **Doctrine of Lapse** was one of the most hated policies because it threaten
 
 ### 2. Religious and Social Fears
 
-A major underlying cause was the fear that the British were trying to destroy the local religions (Islam and Hinduism) and convert the population to Christianity. The arrival of **Christian missionaries**, who were often seen preaching in markets and schools, fueled these suspicions.
+A major hidden cause was the fear that the British were trying to destroy local religions (Islam and Hinduism) and convert people to Christianity. The arrival of **Christian missionaries**, who were often seen preaching in markets and schools, increased these fears.
 
 **Social Reform Concerns:**
-- Social reforms introduced by the British, such as the **abolition of Sati**
-- Permission for widow remarriage
-- Introduction of English as the official language (replacing Persian)
-- These were viewed by orthodox Indians as direct interference in their cultural and religious customs
+- Social reforms brought by the British, such as the **end of Sati**
+- Allowing widows to remarry
+- Making English the official language (replacing Persian)
+- Traditional Indians saw these as direct interference in their cultural and religious customs
 
 **Technology and Caste:**
 - The introduction of the railway and telegraph was viewed with suspicion
@@ -55,7 +55,7 @@ A major underlying cause was the fear that the British were trying to destroy th
 - Fear of cultural extinction gripped the population
 
 :::note
-Orthodox Indians saw British reforms as a deliberate assault on their traditional way of life, even though some reforms (like abolition of Sati) were progressive.
+Traditional Indians saw British reforms as a planned attack on their traditional way of life, even though some reforms (like ending Sati) were positive changes.
 :::
 
 ### 3. Military Grievances and the Immediate Cause
@@ -68,26 +68,26 @@ The Indian sepoys (soldiers) in the East India Company's army were treated as in
 
 **The Immediate Cause - The Enfield Rifle:**
 
-The **Immediate Cause** (the spark) of the war was the introduction of the **Enfield Rifle**. The cartridges for this rifle had to be bitten off before loading.
+The **Immediate Cause** (the spark) of the war was the bringing in of the **Enfield Rifle**. The cartridges for this rifle had to be bitten off before loading.
 
 **The Greased Cartridges Controversy:**
 - Rumors spread that the grease used on these cartridges was made from **cow and pig fat**
-- Since the cow is sacred to Hindus and the pig is forbidden in Islam, this united both communities in anger
-- They felt this was a deliberate attempt by the British to defile their religion
-- This led to the outbreak of the mutiny in **Meerut in May 1857**
+- Since the cow is holy to Hindus and the pig is forbidden in Islam, this united both communities in anger
+- They felt this was a planned attempt by the British to harm their religion
+- This led to the start of the rebellion in **Meerut in May 1857**
 
 :::tip
-The greased cartridges became the symbolic spark that ignited decades of accumulated anger and resentment against British rule.
+The greased cartridges became the spark that lit the fire of many years of built-up anger against British rule.
 :::
 
 ## Conclusion
 
-The War of Independence was not just a military mutiny but a widespread uprising caused by a combination of:
-1. Political annexation
-2. Economic exploitation
-3. Religious insecurity
+The War of Independence was not just a military rebellion but a widespread uprising caused by a combination of:
+1. Political takeovers
+2. Economic mistreatment
+3. Religious fears
 
-While the "Greased Cartridges" provided the immediate spark, the gunpowder had been piling up for decades due to the ruthless policies of the East India Company. The failure of the war eventually led to the end of Company rule and the establishment of direct British Crown rule over India.
+While the "Greased Cartridges" provided the immediate spark, the anger had been building up for many years due to the harsh policies of the East India Company. The failure of the war led to the end of Company rule and the start of direct British Crown rule over India.
 
 ---
 
@@ -231,3 +231,57 @@ Follow the 5-point essay structure above, elaborating each section with specific
 
 **Very Long Answer (15+ marks):**
 Add subsections on different class perspectives (rulers, soldiers, peasants), comparative analysis of how different regions responded, and detailed analysis of why the movement ultimately failed despite being widespread.
+
+---
+
+## Summary Flashcards
+
+Use these flashcards for quick revision:
+
+### Card 1: War of Independence 1857 Overview
+**Q: What was the War of Independence of 1857?**
+**A:** The first major armed fight by Indians against British East India Company rule. It happened because of many years of built-up anger across all parts of society, not just one single event.
+
+### Card 2: Doctrine of Lapse
+**Q: What was the Doctrine of Lapse and why was it hated?**
+**A:** A British policy that said if a ruler died without a natural male heir, the British would take over their state. It was hated because it threatened Indian kingdoms like Jhansi, Satara, and Nagpur.
+
+### Card 3: Oudh Annexation
+**Q: Why was the taking over of Oudh in 1856 important?**
+**A:** It angered thousands of soldiers who came from Oudh. This made many army men ready to rebel against the British.
+
+### Card 4: Economic Causes
+**Q: How did the British economically harm Indians?**
+**A:** They used India's resources for Britain, put heavy taxes on Indian goods, flooded markets with cheap British cloth, destroyed local industries, and millions of weavers lost jobs and starved.
+
+### Card 5: Religious Fears
+**Q: What religious fears did Indians have about British rule?**
+**A:** Indians feared the British wanted to destroy Islam and Hinduism and convert everyone to Christianity. Christian missionaries preaching everywhere increased these fears.
+
+### Card 6: Social Reforms Concerns
+**Q: Why did traditional Indians oppose British social reforms?**
+**A:** Reforms like ending Sati, allowing widow remarriage, and making English the official language were seen as direct interference in their cultural and religious customs.
+
+### Card 7: The Enfield Rifle
+**Q: What was the immediate cause (spark) of the War of 1857?**
+**A:** The bringing in of the Enfield Rifle with cartridges greased with cow and pig fat, which had to be bitten off before loading.
+
+### Card 8: Greased Cartridges Unity
+**Q: Why did the greased cartridges unite Hindus and Muslims?**
+**A:** Cows are holy to Hindus and pigs are forbidden in Islam. Using cow and pig fat forced both communities to go against their religion, so they united in anger against the British.
+
+### Card 9: Where Did It Start
+**Q: Where and when did the rebellion begin?**
+**A:** The rebellion started in Meerut in May 1857, after sepoys refused to use the greased cartridges.
+
+### Card 10: Military Grievances
+**Q: How were Indian sepoys treated unfairly in the British army?**
+**A:** They were paid less than British soldiers, had little chance of promotion, faced discrimination in all areas, and were sometimes forced to serve in ways that broke their caste rules.
+
+### Card 11: Result of the War
+**Q: What happened after the War of Independence failed?**
+**A:** The East India Company's rule ended and direct British Crown rule over India began in 1859.
+
+### Card 12: Three Main Causes
+**Q: What were the three main types of causes for the War of 1857?**
+**A:** 1) Political takeovers (Doctrine of Lapse, Oudh), 2) Economic mistreatment (taxes, destroying industries), 3) Religious fears (Christian missionaries, social reforms)
